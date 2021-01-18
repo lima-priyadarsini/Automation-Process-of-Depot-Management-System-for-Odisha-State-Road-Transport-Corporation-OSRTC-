@@ -1,0 +1,2 @@
+# Automation-Process-of-Depot-Management-System-for-Odisha-State-Road-Transport-Corporation-OSRTC-
+A web based interactive automation system would be developed and hosted on the server. The system will have facilities like generating list of Vehicle, Depo, Vehicle History, Vehicle various parts information, Purchase to utilization process with stock and inventory management, Managing accounts&amp;Billing Application etc.The main objective of the portal is to automate and increase the efficiency of the OSRTC workflow. 
